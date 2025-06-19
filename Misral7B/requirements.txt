@@ -1,0 +1,6 @@
+# Core dependencies
+gradio
+llama-cpp-python
+
+# Modle download here and paste it in the local_llm_caht file
+# https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.1-GGUF/blob/main/Mistral-7B-Instruct-v0.1.Q2_K.gguf
